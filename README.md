@@ -23,6 +23,7 @@ You can install these dependencies using pip:
 - `train_model.py`: Script to train the CNN model.
 - `predict_image.py`: Script to make predictions on new images.
 - `cat_dog_classifier.h5`: Pre-trained model file.
+- 'Dataset: https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification'
 
 
 ## License
